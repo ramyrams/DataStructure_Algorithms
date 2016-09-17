@@ -1,5 +1,24 @@
 # DataStructure_Algorithms
 
+* [Data Structures and Algorithms in Java](https://github.com/donbeave/interview)
+
+
+* [Top 10 Algorithms and Data Structures for Competitive Programming](http://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
+
+
+* [Collection of algorithms and data structures](https://github.com/indy256/codelibrary)
+* [Data Structures And Algorithms Made Easy](https://github.com/careermonk/DataStructuresAndAlgorithmsMadeEasy)
+* [Basic and advanced algorithms and data structures](https://github.com/jilljenn/tryalgo)
+* [Implementations of popular data structures and algorithms ](https://github.com/aggelgian/erlang-algorithms)
+* [Algorithms and Data Structures](https://github.com/shivam-maharshi/Algorithms)
+
+
+
+## Video
+* [Data Structures and Algorithms Complete Tutorial Computer Education for All](https://www.youtube.com/watch?v=YWnBbNj_G-U)
+* [Preparation for Data Structure and Algorithm Round](https://www.youtube.com/watch?v=TpMmcEwW524)
+* 
+
 * [Big O Notation: What It Is and Why You Should Care](https://www.freecodecamp.com/videos/big-o-notation-what-it-is-and-why-you-should-care)
 * [Big O Notation: A Few Examples](https://www.freecodecamp.com/videos/big-o-notation-a-few-examples)
 
