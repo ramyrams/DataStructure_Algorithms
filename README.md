@@ -12,7 +12,7 @@
 * [Implementations of popular data structures and algorithms ](https://github.com/aggelgian/erlang-algorithms)
 * [Algorithms and Data Structures](https://github.com/shivam-maharshi/Algorithms)
 
-
+https://medium.com/@mrjoelkemp/an-algorithm-for-algorithmic-technical-interview-questions-40b0bbb1d6f#.7v9zxaujl
 
 ## Video
 * [Data Structures and Algorithms Complete Tutorial Computer Education for All](https://www.youtube.com/watch?v=YWnBbNj_G-U)
