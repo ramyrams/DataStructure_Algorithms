@@ -1,5 +1,9 @@
 # DataStructure_Algorithms
 
+
+* [The Benefits of Learning Algorithms](https://dzone.com/articles/is-cracking-the-coding-interview-the-only-benefit)
+
+
 https://medium.com/omarelgabrys-blog/tagged/algorithms
 
 * [Implementation of Algorithms and Data Structures, Interview Questions and Answers](https://github.com/sherxon/AlgoDS/)
