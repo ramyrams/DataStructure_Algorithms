@@ -11,6 +11,7 @@ https://medium.com/omarelgabrys-blog/tagged/algorithms
 * [Data Structures and Algorithms in Java](https://github.com/donbeave/interview)
 
 
+* [Algorithms: Big O Notations Explained](https://dzone.com/articles/algorithms-asymptotic-notations-explained-simple)
 
 https://www.pinterest.com/pin/816207132436919094/
 
